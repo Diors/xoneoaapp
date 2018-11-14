@@ -580,8 +580,8 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/qianhuanping/Desktop/cordova sample/xoneoa/src/theme/variables.scss */"./src/theme/variables.scss");
-module.exports = __webpack_require__(/*! /Users/qianhuanping/Desktop/cordova sample/xoneoa/src/global.scss */"./src/global.scss");
+__webpack_require__(/*! F:\GitHub\xoneoaapp\src\theme\variables.scss */"./src/theme/variables.scss");
+module.exports = __webpack_require__(/*! F:\GitHub\xoneoaapp\src\global.scss */"./src/global.scss");
 
 
 /***/ })

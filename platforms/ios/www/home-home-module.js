@@ -61,7 +61,7 @@ var HomePageModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<ion-header>\n  <ion-toolbar>\n    <ion-title>\n      login form\n    </ion-title>\n  </ion-toolbar>\n</ion-header>\n\n<ion-content padding>\n  <ion-card>\n    <ion-card-header>\n      login form\n    </ion-card-header>\n    <ion-card-content>\n      <ion-list no-line>\n        <ion-item>\n          <ion-input input=\"text\" placeholder=\"User Name\"></ion-input>\n        </ion-item>\n        <ion-item>\n          <ion-input input=\"password\" placeholder=\"Password\"></ion-input>\n        </ion-item>\n      </ion-list>\n      <ion-button ion-button block outlike color=\"light\">login</ion-button>\n    </ion-card-content>\n  </ion-card>\n</ion-content>"
+module.exports = "\r\n<ion-content padding>\r\n  <ion-card>\r\n    <ion-card-header>\r\n      login form\r\n    </ion-card-header>\r\n    <ion-card-content>\r\n      <ion-list no-line>\r\n        <ion-item>\r\n          <ion-input input=\"text\" placeholder=\"User Name\"></ion-input>\r\n        </ion-item>\r\n        <ion-item>\r\n          <ion-input input=\"password\" placeholder=\"Password\"></ion-input>\r\n        </ion-item>\r\n      </ion-list>\r\n      <ion-button ion-button block outlike color=\"light\">login</ion-button>\r\n    </ion-card-content>\r\n  </ion-card>\r\n</ion-content>"
 
 /***/ }),
 

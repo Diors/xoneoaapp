@@ -5479,7 +5479,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/qianhuanping/Desktop/cordova sample/xoneoa/src/polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! F:\GitHub\xoneoaapp\src\polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })
